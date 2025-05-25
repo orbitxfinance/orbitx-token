@@ -26,7 +26,7 @@ This repository contains the smart contract for the RTX Token and related inform
 
 To interact with the RTX token, you will typically use a Web3-enabled wallet and interact with the contract deployed on the BEP-20 network.
 
-- **Contract Address:** [0x582d86bfd6ff7c707c8140df7f485e76a94d7d4e](https://bscscan.com/token/0x582d86bfd6ff7c707c8140df7f485e76a94d7d4e)
+- **Contract Address:** [0x6c44dC4c1df6469ef31887154AcD7A672469f88E](https://bscscan.com/token/0x6c44dC4c1df6469ef31887154AcD7A672469f88E)
 
 ## RTX Token
 
